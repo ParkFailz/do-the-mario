@@ -4,9 +4,10 @@ def shutdown():
     zooopen()
     
 
-shutdown()
 def zooopen():
     webbrowser.open ("https://www.youtube.com/watch?v=jNQXAC9IVRw")
     zooopen()
+
+shutdown()
 
 #Wesleypeter2011@gmail.com
