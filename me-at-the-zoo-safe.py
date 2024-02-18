@@ -9,5 +9,3 @@ def zooopen():
     zooopen()
 
 shutdown()
-
-#Wesleypeter2011@gmail.com
